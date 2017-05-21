@@ -1,5 +1,5 @@
 ---
-title: "AlphabetJS: The latest and greatest Javascript framework"
+title: "Dataludi: The latest and greatest Javascript web grid component."
 ---
 
 ## Inops magnis Acrisius remisit Circes

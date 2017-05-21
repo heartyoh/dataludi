@@ -2,6 +2,6 @@
 title: Introduction
 ---
 
-**AlphabetJS** is the latest and greatest Javascript Framework. It's
+**Dataludi** is the latest and greatest Javascript Framework. It's
 amazing and wonderful and you'll probably love it more than all of the
-other ones. ㅎ 그렇군.
+other ones. 이럴수가...
